@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">تاسك</string>
+    <string name="hello_i_m">اهلا انا</string>
+    <string name="name">يوسف</string>
+    <string name="allName">يوسف عبدالكريم علي بسيوني</string>
+    <string name="email"><u>hamada@gmail.com</u></string>
+    <string name="address">كفرالشيخ بلطيم</string>
+    <string name="phoneNumbers">+2011111111111</string>
+    <string name="titleAboutMe">حول ما :</string>
+    <string name="subTitleAboutMe">  طالب علوم حاسوب دقيق ومطور تطبيقات Flutter مبتدئ، شغوف ببناء تطبيقات جوال قابلة للتوسع. يمتلك أساسًا متينًا في هندسة البرمجيات، والبرمجة كائنية التوجه، وإدارة الحالة الحديثة باستخدام BLoC (Cubit) وGetX. لديه خبرة في تطوير تطبيقات جاهزة للإنتاج باستخدام بنية نظيفة، ودمج واجهات برمجة تطبيقات REST، وFirebase، وخرائط جوجل.</string>
+</resources>

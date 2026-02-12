@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">task_depi1</string>
+    <string name="hello_i_m">Hello I\'m</string>
+    <string name="name">Yusef</string>
+    <string name="allName">Yusef Abdulkarim Ali Hamada</string>
+    <string name="email"><u>hamada@gmail.com</u></string>
+    <string name="address">Kafr-Elshiekh Baltim</string>
+    <string name="phoneNumbers">+021111111111</string>
+    <string name="titleAboutMe">ABOUT ME :</string>
+    <string name="subTitleAboutMe">Detail-oriented Computer Science student and Junior Flutter Developer with a strong passion for building scalable mobile applications. Solid foundation in Software Engineering, OOP, and modern state management using BLoC (Cubit) and GetX. Experienced in developing production-ready apps with Clean Architecture, integrating REST APIs, Firebase, and Google Maps.</string>
+</resources>
