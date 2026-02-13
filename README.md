@@ -22,9 +22,6 @@ This project is part of the **DEPI (Digital Egypt Pioneers Initiative)** trainin
 ---
 
 ## 📸 Project Preview
-> [!TIP]
-> **Pro Tip:** Create a folder named `screenshots` in your project root, add your screen image as `profile_screen.png`, and it will appear below!
-
 <p align="center">
   <img src="screenshots/image1.jpeg" width="300" title="Profile Screen Arabic">
   <img src="screenshots/image2.jpeg" width="300" title="Profile Screen English">
